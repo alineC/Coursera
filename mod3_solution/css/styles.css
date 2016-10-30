@@ -1,0 +1,16 @@
+.chicken_div {
+	background-color: green;
+	color: #ffffff;
+}
+.dropdow-bg {
+	background-color: #000000;
+	color: #ffffff;
+}
+a.dropdown-link {
+    color: #ffffff;
+    
+}
+a.dropdown-link:hover {
+	color: #f00088 !important;
+	background-color: #666;
+}
