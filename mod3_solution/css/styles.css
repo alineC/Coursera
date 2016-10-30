@@ -3,14 +3,19 @@
 	color: #ffffff;
 }
 .dropdow-bg {
-	background-color: #000000;
+
 	color: #ffffff;
 }
-a.dropdown-link {
-    color: #ffffff;
-    
+.navbar-default .navbar-nav>li>a {
+    color: navy;
 }
-a.dropdown-link:hover {
-	color: #f00088 !important;
-	background-color: #666;
+
+.navbar-default .navbar-nav>li>a:hover {
+	color: #ffffff !important;
+	background-color: black;
+}
+
+.navbar-bg {
+	background-color: aqua;
+	padding: 10px 15px;
 }
